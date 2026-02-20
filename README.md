@@ -1,6 +1,6 @@
 # ExercícioGit
 
-## Descrição
+## Descrição do projeto
 Este projeto foi criado para simular um fluxo de trabalho profissional no GitHub,
 com divisão de funções entre Líder de Projeto e Revisor de Qualidade.
 
