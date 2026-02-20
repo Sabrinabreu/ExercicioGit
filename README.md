@@ -1,4 +1,4 @@
-# ExercícioGIt
+# ExercícioGit
 
 ## Descrição
 Este projeto foi criado para simular um fluxo de trabalho profissional no GitHub,
