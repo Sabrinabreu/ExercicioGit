@@ -1,6 +1,6 @@
-# ExercícioGIt
+# ExercícioGit
 
-## Descrição
+## Descrição do projeto
 Este projeto foi criado para simular um fluxo de trabalho profissional no GitHub,
 com divisão de funções entre Líder de Projeto e Revisor de Qualidade.
 
@@ -11,4 +11,4 @@ com divisão de funções entre Líder de Projeto e Revisor de Qualidade.
 
 ## Autores
 - Líder do Projeto: Sabrina Brito de Abreu Santos
-- Revisor de Qualidade: Livia Figueiredo da Silva
+- Revisor de Qualidade: Não lembro
