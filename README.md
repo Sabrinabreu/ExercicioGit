@@ -11,4 +11,4 @@ com divisão de funções entre Líder de Projeto e Revisor de Qualidade.
 
 ## Autores
 - Líder do Projeto: Sabrina Brito de Abreu Santos
-- Revisor de Qualidade: Livia Figueiredo da Silva
+- Revisor de Qualidade: Não lembro
